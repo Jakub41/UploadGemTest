@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails UploadGemTest: test" uuid="5e9ba4df-fa05-49be-9ba2-abc58f3adfe1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="Rails UploadGemTest: production" uuid="d3059445-8c92-486c-86ba-b81da970852d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>app_dev</user-name>
+    </data-source>
+    <data-source name="Rails UploadGemTest: development" uuid="74c7a692-86a9-4266-beed-5df75e81bd3e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>app_dev</user-name>
+    </data-source>
+  </component>
+</project>

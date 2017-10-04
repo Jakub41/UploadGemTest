@@ -1,0 +1,6 @@
+<% if @document.errors.present? %>
+$('#document_form').html('<%= j render "form" %>');
+init_upload();
+<% else %>
+setTimeout(function(){ window.location.href = '/documents'; }, 500);
+<% end %>
